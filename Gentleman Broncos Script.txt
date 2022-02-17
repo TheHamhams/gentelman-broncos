@@ -1,4 +1,3 @@
-name/quote
 JUDITH/Benjamin. What are you doing? We're going to be late.
 JUDITH/Are you excited?
 BENJAMIN/Yeah.
