@@ -27,8 +27,7 @@ BENJAMIN/Yeah, he seems pretty cool.
 TABITHA/I write French mysteries, you know.
 BENJAMIN/How long you been doing that?
 TABITHA/Mainly the last six months. I write about a stable hand named Pierre.
-TABITHA/Can I borrow some money to buy some tampons? All my cash is still in euros and I haven't
-had time to change it over yet.
+TABITHA/Can I borrow some money to buy some tampons? All my cash is still in euros and I haven't had time to change it over yet.
 BENJAMIN/What? Yeah, sure.
 TABITHA/Thanks. I owe you big time.
 BENJAMIN/Don't worry about it.
@@ -45,12 +44,10 @@ TABITHA/Hey, Lonnie, can you squirt me some of that lotion we just bought? Will 
 BENJAMIN/Yeah. Yeah, I can do that.
 TABITHA/You guys are so lucky you get to be roommates. Mine just wants to eat.
 BENJAMIN/Hey. I don't think you're allowed to be here. Mr. Keefe is right next door.
-TABITHA/Relax, Benjamin, I just want to get to know you better. So, when are you gonna let me read
-one of your stories?
+TABITHA/Relax, Benjamin, I just want to get to know you better. So, when are you gonna let me read one of your stories?
 BENJAMIN/I don't know. I usually don't let people read my stuff.
 TABITHA/Why not?
-BENJAMIN/I've let my mom read a few, but they've just made her cry. Most people just get sicked out
-and stop reading.
+BENJAMIN/I've let my mom read a few, but they've just made her cry. Most people just get sicked out and stop reading.
 TABITHA/Really? Are there romantic sequences?
 BENJAMIN/No. None of that crap. It's just some mild swearing and sci-fi violence.
 TABITHA/Well, have you tried posting any of your stories online?
@@ -148,16 +145,16 @@ BRONCO/Vanaya?
 VANAYA/It is I.
 BRONCO/I don't believe that.
 VANAYA/My family is dead. My brother and I have been forced to work in the yeast factories ever since the epidemic.
-BRONCOl You have a brother?
-VANAYAl Yes. His name is Kanaya. He doesn't speak. But he's very handy with powders and gizmos and such. He can build anything.
-BRONCOl What y'all... What y'all want from me?
+BRONCO/You have a brother?
+VANAYA/Yes. His name is Kanaya. He doesn't speak. But he's very handy with powders and gizmos and such. He can build anything.
+BRONCO/What y'all... What y'all want from me?
 VANAYA/Let us come with you. Together, we can destroy Lord Daysius once and for all. We shall begin a new yeast colony, just like when we were children.
 BRONCO/Well, that's my dream, but there's only one problem. They got my reproductives, Vanaya. Daysius is gonna build himself an army using my seed. I can't let that happen. His power's become unruly.
 BRONCO/You know how weird that'd be, a bunch of gorgeous yeast lords with my face, running around, making dang fools of themselves? I'm sorry, Vanaya, I have to do this alone. You and Kanaya would just be dead weight, big time. Gotta cut bait on this deal. Krolaxx, come on. Come on, Krolaxx.
 VANAYA/We know where Daysius is hiding your yeast, Bronco.
 BRONCO/Yeah, right. I can smell a cache of yeast cakes 40 mile off.
 VANAYA/It's being held in a mountain fortress just north of here. I can show you. Kanaya and I just escaped from the yeast factory there. If you don't believe me, smell my breath.
-BRONCOl Tastes like homemade licorice. Take me there. Take me to your yeast factory. I am your soldier.
+BRONCO/ Tastes like homemade licorice. Take me there. Take me to your yeast factory. I am your soldier.
 JUDITH/I know you like wearing your dad's old clothes, but while you were at Cletus Fest, I got you some new shoes. Only $5, clearance sale at Haymart.
 BENJAMIN/These are girls' shoes, Mom.
 JUDITH/Oh, shoot. I thought they were skipper shoes. 
@@ -319,7 +316,7 @@ BANKER/This check is post-dated for next year.
 BENJAMIN/It is?
 BANKER/Come back in a year from now, and we'll see if it clears.
 TABATHA/Yeah!
-ANNOUNCER: Broadcasting live from Saltair Studios here in the Great Basin valley, we bring you The Rod Decker Show, serving your community for over a decade. Your host, Rod Decker.
+ANNOUNCER/Broadcasting live from Saltair Studios here in the Great Basin valley, we bring you The Rod Decker Show, serving your community for over a decade. Your host, Rod Decker.
 ROD/Good morning. Welcome to The Rod Decker Show. We have some filmmakers here today. Mr. Lonnie Donaho is the director of Yeast Lords. Miss Tabatha Jenkins is the producer. And seated next to me is Mr. Dusty Crissop. He's the leading man.
 JUDITH/Look. It's Dusty.
 ROD/These guys are prolific. This is your 84th production, Mr. Donaho?
